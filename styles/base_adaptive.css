@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .button {
+    padding: 12px 20px;
+    font-size: 14px;
+  }
+
+  .container {
+    padding: 0 15px;
+  }
+}
